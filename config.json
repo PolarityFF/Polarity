@@ -1,0 +1,16 @@
+{
+    "services": [
+        "DiagTrack",
+        "dmwappushservice",
+        "MapsBroker",
+        "Fax",
+        "Spooler",
+        "WSearch",
+        "XboxNetApiSvc",
+        "XblGameSave",
+        "wisvc",
+        "stisvc",
+        "TeamViewer",
+        "WbioSrvc"
+    ]
+}
