@@ -8,15 +8,15 @@
 
 Feature    | Enabled by Default  | Version-Added
 ----------------- | ------------ | ------------
-Memory Release    | `true`       |  **V3**
-Process Priority  | `user-request`      |  **V2.0.1**
-Process Micro  | `true`      |  **V4**
-Custom FFlags  | `true`      |  **V1**
-Process Terminate  | `true`      |  **V1**
-Process Affinity  | `true`      |  **V1**
-Algorithmic Tuning  | `user-request`      |  **V4**
-Sys Algorithms  | `user-request`      |  **V4**
-~~Runtime~~ Debloating  | `user-request`      |  **V4**
+Memory Release    | `true`              |  **V3**
+Process Priority  | `true`      |  **V2.0.1**
+Process Micro  | `true`                 |  **V4**
+Custom FFlags  | `true`                 |  **V1**
+Process Terminate  | `true`             |  **V1**
+Process Affinity  | `true`              |  **V1**
+Algorithmic Tuning  | `paused`    |  **V4**
+Sys Algorithms  | `paused`        |  **V4**
+~~Runtime~~ Debloating  | `paused`|  **V2**
 Configs + Editor  | `user-request`      |  **V3**
 
 # Usage
