@@ -1,6 +1,6 @@
 {
-  "DFIntTaskSchedulerTargetFps": 135326,
-  "FFlagGameBasicSettingsFramerateCap5": False,
+  "DFIntTaskSchedulerTargetFps": "135326",
+  "FFlagGameBasicSettingsFramerateCap5": "False",
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
   "FFlagDebugDisplayFPS": "False",
   "FFlagDebugSkyGray": "True",
