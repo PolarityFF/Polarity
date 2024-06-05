@@ -1,2 +1,2 @@
-# Polarity V4
+# Polarity V4.1
 Roblox optimizations using OS capabilities. 
