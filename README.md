@@ -2,7 +2,7 @@
 
 ![wavy-black-white-backgroundgit_23-2150530916](https://github.com/FileFilza-sudo/Polarity/assets/166323903/219c1f36-128b-429e-97b5-5de14b86e227)
 
-# Version - Polarity V4
+# Version - Polarity V5 (Soon)
 
 ## Capabilities
 
@@ -18,6 +18,8 @@ Algorithmic Tuning  | `paused`    |  **V4**
 Sys Algorithms  | `paused`        |  **V4**
 ~~Runtime~~ Debloating  | `paused`|  **V2**
 Configs + Editor  | `user-request`      |  **V3**
+
+***Seems like v4 has some fps drop issues, probably the memory release feature which needs to be revamped. v5 will address these issues.***
 
 # Usage
 
