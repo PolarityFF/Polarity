@@ -29,4 +29,6 @@ Configs + Editor  | `user-request`      |  **V3**
 
 3. Extract the downloaded file which can be found in the downloads folder of file explorer
 
-4. The folder will contain a config editor ``PolarityCFGE`` and Polarity client itself correlated with its version number **PolarityV4Client**
+4. WIP
+
+~~4. The folder will contain a config editor ``PolarityCFGE`` and Polarity client itself correlated with its version number **PolarityV4Client**~~
