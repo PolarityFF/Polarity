@@ -2,7 +2,7 @@
 
 ![wavy-black-white-backgroundgit_23-2150530916](https://github.com/FileFilza-sudo/Polarity/assets/166323903/219c1f36-128b-429e-97b5-5de14b86e227)
 
-# Version - Polarity V5 (Soon)
+# Version - Polarity V5 (Deprecated)
 
 ## Capabilities
 
@@ -32,3 +32,5 @@ Configs + Editor  | `user-request`      |  **V3**
 4. WIP
 
 ~~4. The folder will contain a config editor ``PolarityCFGE`` and Polarity client itself correlated with its version number **PolarityV4Client**~~
+
+This version is currently buggy, do not use unless you need to.
